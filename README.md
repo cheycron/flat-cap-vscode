@@ -1,14 +1,15 @@
-# Flat Cap - A VS Code Theme
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/readme_logo.svg?raw=true" alt="flatcap"/>
+</p>
+<p align="center">
+  Flat Cap is a dark, minimalist, and eye-friendly theme for Visual Studio Code, meticulously crafted to provide a comfortable and focused coding experience.
+</p>
 
-![Flat Cap Theme Preview](images/readme_logo.svg)
+![Flat Cap for VS Code](images/demo_vscode.png)
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Cheycron.flatcap-theme?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Cheycron.flatcap-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
 [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/Cheycron.flatcap-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
-
-Flat Cap is a dark, minimalist, and eye-friendly theme for Visual Studio Code, meticulously crafted to provide a comfortable and focused coding experience.
-
-![Flat Cap for VS Code](images/demo_vscode.png)
 
 ## Installation
 
