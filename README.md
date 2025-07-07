@@ -5,7 +5,9 @@
   Flat Cap is a dark, minimalist, and eye-friendly theme for Visual Studio Code, meticulously crafted to provide a comfortable and focused coding experience.
 </p>
 
-![Flat Cap for VS Code](images/demo_vscode.png)
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_vscode.png?raw=true" alt="Flatcap VSCode"/>
+</p>
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Cheycron.flatcap-theme?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Cheycron.flatcap-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
@@ -27,10 +29,18 @@ Flat Cap draws inspiration from the fantastic design logic of the **[Nord theme]
 
 The Flat Cap theme is built upon a carefully curated and expanded color palette, designed for granular control and visual harmony across various UI elements and syntax highlighting. The palette is divided into four main categories: Deep Twilight, Dawnlight, Ocean Blues, and Vivid Accents.
 
-![DeepTwilight](images/color_deeptwilight.svg)
-![Dawnlight](images/color_dawnlight.svg)
-![OceanBlues](images/color_oceanblues.svg)
-![VividAccents](images/color_vividaccents.svg)
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_deeptwilight.svg?raw=true" alt="Deep Twilight"/>
+</p>
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_dawnlight.svg?raw=true" alt="Dawnlight"/>
+</p>
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_oceanblues.svg?raw=true" alt="Ocean Blues"/>
+</p>
+<p align="center">
+  <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/color_vividaccents.svg?raw=true" alt="Vivid Accents"/>
+</p>
 
 ### Deep Twilight (Dark Backgrounds & Base Elements)
 
@@ -82,7 +92,3 @@ For the best experience, I recommend using a font that supports ligatures, such 
   "editor.fontLigatures": true
 }
 ```
-
-## License
-
-This theme is released under the [MIT License](license.md).
