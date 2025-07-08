@@ -2,10 +2,6 @@
 
 ![Flat Cap Theme Preview](images/readme_logo.svg)
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Cheycron.flatcap-theme?style=for-the-badge&label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/Cheycron.flatcap-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/Cheycron.flatcap-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=cheycron.flatcap-theme)
-
 Flat Cap is a dark, minimalist, and eye-friendly theme for Visual Studio Code, meticulously crafted to provide a comfortable and focused coding experience.
 
 ![Flat Cap for VS Code](images/demo_vscode.png)
@@ -45,7 +41,7 @@ These colors are primarily used for backgrounds, elevated UI elements, and low-p
 
 Perfect for main text, contrasting UI elements, and light backgrounds.
 
-- **FlatCap 5**: `#d0d2d6` - Low-contrast text in dark mode, main text in light mode.
+- **FlatCap 5**: `#d0d2d6` - Low-contrast text in dark mode.
 - **FlatCap 6**: `#e4e6eb` - Main text in dark mode, clear UI elements.
 - **FlatCap 7**: `#ecedf0` - Light container backgrounds, interactive UI elements.
 - **FlatCap 8**: `#f4f5f7` - Brightest tone for light base backgrounds, maximum highlights.
