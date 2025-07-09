@@ -9,6 +9,18 @@
   <img src="https://github.com/cheycron/flat-cap-theme/blob/main/images/demo_vscode.png?raw=true" alt="Flatcap VSCode"/>
 </p>
 
+## Sintaxis Highlight
+
+<p align="center">
+  <img src="images/flat-cap-go.png?raw=true" alt="Flatcap VSCode"/>
+  <img src="images/flat-cap-rust.png?raw=true" alt="Flatcap VSCode"/>
+</p>
+
+<p align="center">
+  <img src="images/flat-cap-php.png?raw=true" alt="Flatcap VSCode"/>
+  <img src="images/flat-cap-js.png?raw=true" alt="Flatcap VSCode"/>
+</p>
+
 ## Installation
 
 1.  Open **Visual Studio Code**.
