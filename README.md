@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Flat Cap is a dark, minimalist, and eye-friendly theme for Visual Studio Code, meticulously crafted to provide a comfortable and focused coding experience.
+  Flatcap is a dark, minimalist, and eye-friendly theme for Visual Studio Code, meticulously crafted to provide a comfortable and focused coding experience.
 </p>
 
 <p align="center">
