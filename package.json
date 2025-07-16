@@ -2,11 +2,11 @@
   "name": "flatcap-theme",
   "displayName": "Flat-Cap Theme",
   "description": "A Flat-Cap theme for VSCode",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "publisher": "cheycron",
   "license": "MIT",
   "galleryBanner": {
-    "color": "#1c1e22",
+    "color": "#121418",
     "theme": "dark"
   },
   "icon": "images/logo.png",
@@ -34,11 +34,7 @@
   ],
   "contributes": {
     "themes": [
-      {
-        "label": "Flat-Cap",
-        "uiTheme": "vs-dark",
-        "path": "./themes/flat-cap-color-theme.json"
-      }
+      { "label": "Flatcap", "uiTheme": "vs-dark", "path": "./themes/flatcap.theme.json" }
     ]
   }
 }
